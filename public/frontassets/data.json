@@ -1,0 +1,122 @@
+rs_rujukan = [
+	{
+		"koordinatX": 5.51762,
+		"koordinatY": 95.31793,
+		"data": {
+			"RS Rujukan": "RSUD Meuraxa",
+			"Alamat": "Jl. Soekarno - Hatta KM. 2, Mibo, Kec. Banda Raya, Kota Banda Aceh",
+			"Telp": "(0651) 43097"
+		}
+	},
+	{
+		"koordinatX": 5.56436,
+		"koordinatY": 95.33879,
+		"data": {
+			"RS Rujukan": "RSUD dr. Zainoel Abidin",
+			"Alamat": "Jl. Teuku Moh. Daud Beureueh No.108, Bandar Baru, Kec. Kuta Alam, Kota Banda Aceh",
+			"Telp": "(0651) 34565"
+		}
+	}
+]
+
+data = [
+	{
+		"koordinatX": 5.54394,
+		"koordinatY": 95.31901,
+		"data": {
+			"kecamatan": "BAITURRAHMAN",
+			"odp": 0,
+			"positif": 0,
+			"meninggal": 0,
+			"sembuh": 0
+		}
+	},
+	{
+		"koordinatX": 5.55327,
+		"koordinatY": 95.29537,
+		"data": {
+			"kecamatan": "MEURAXA",
+			"odp": 123,
+			"positif": 15,
+			"meninggal": 2,
+			"sembuh": 10
+		}
+	},
+	{
+		"koordinatX": 5.54543,
+		"koordinatY": 95.33471,
+		"data": {
+			"kecamatan": "LUENG BATA",
+			"odp": 70,
+			"positif": 12,
+			"meninggal": 3,
+			"sembuh": 6
+		}
+	},
+	{
+		"koordinatX": 5.52331,
+		"koordinatY": 95.31053,
+		"data": {
+			"kecamatan": "BANDA RAYA",
+			"odp": 12,
+			"positif": 2,
+			"meninggal": 0,
+			"sembuh": 1
+		}
+	},
+	{
+		"koordinatX": 5.565826,
+		"koordinatY": 95.325940,
+		"data": {
+			"kecamatan": "KUTA ALAM",
+			"odp": 0,
+			"positif": 0,
+			"meninggal": 0,
+			"sembuh": 0
+		}
+	},
+	{
+		"koordinatX": 5.587824,
+		"koordinatY": 95.346855,
+		"data": {
+			"kecamatan": "SYIAH KUALA",
+			"odp": 0,
+			"positif": 0,
+			"meninggal": 0,
+			"sembuh": 0
+		}
+	},
+	{
+		"koordinatX": 5.571896,
+		"koordinatY": 95.316652,
+		"data": {
+			"kecamatan": "KUTA RAJA",
+			"odp": 20,
+			"positif": 3,
+			"meninggal": 1,
+			"sembuh": 2
+		}
+	},
+	{
+		"koordinatX": 5.538164,
+		"koordinatY": 95.296811,
+		"data": {
+			"kecamatan": "JAYA BARU",
+			"odp": 0,
+			"positif": 0,
+			"meninggal": 0,
+			"sembuh": 0
+		}
+	},
+	{
+		"koordinatX": 5.552058,
+		"koordinatY": 95.349358,
+		"data": {
+			"kecamatan": "ULEE KARENG",
+			"odp": 15,
+			"positif": 4,
+			"meninggal": 1,
+			"sembuh": 3
+		}
+	}
+]
